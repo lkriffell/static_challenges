@@ -1,0 +1,74 @@
+html {
+  margin-right: 150px;
+  margin-left: 150px;
+  background-color: black;
+}
+
+
+
+h1 {
+  background-color: brown;
+  padding-top: 20px;
+  padding-left: 10px;
+  height: 80px;
+  width: 99%;
+  color: white;
+  font-size: 30;
+  font-weight: bold;
+  text-align: left;
+}
+
+#li1 {
+  padding-right: 5px;
+  color: white;
+  font-size: 20;
+  text-align: right;
+}
+
+div{
+  background-color: black;
+  height: 40px;
+  width: 99%;
+  text-align: right;
+}
+
+ul#menu li{
+  display:inline;
+  padding-right: 10px;
+  padding-top: 20px;
+  color: white;
+  font-size: 20;
+}
+
+div#img{
+  background-color: white;
+  height: 1500px;
+  width: 100%;
+}
+
+img#museum {
+  display: block;
+  padding-left: 25px;
+  padding-top: 25px;
+}
+
+h4 {
+  padding-left: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 30;
+}
+
+p {
+  padding-left: 50px;
+  padding-bottom: 15px;
+  width: 50%;
+  text-align: left;
+}
+
+div#sideimg h5{
+  text-align: right;
+
+}
